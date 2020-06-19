@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ajoa bhai ajaao
+=======
+yeh bhi smart git ki hi bawaseer hai
+agya tu jawan hokay
+>>>>>>> fab2b83f5418c136fd3b2f80cb1c50a3cadbc63d
